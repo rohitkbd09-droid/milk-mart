@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "cow-milk",
+      "description": "A bottle of fresh cow milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1568926164310-e6a8fce5f961?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y293JTIwbWlsa3xlbnwwfHx8fDE3NjIxODQwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cow milk"
+    },
+    {
+      "id": "buffalo-milk",
+      "description": "A bottle of rich buffalo milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1576186726115-4d51596775d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaWxrJTIwYm90dGxlfGVufDB8fHx8MTc2MjA3NzE5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "milk bottle"
+    },
+    {
+      "id": "toned-milk",
+      "description": "A carton of toned milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1641320487573-479720290849?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaWxrJTIwY2FydG9ufGVufDB8fHx8MTc2MjE4MTgyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "milk carton"
+    },
+    {
+      "id": "almond-milk",
+      "description": "A glass of almond milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1601436423581-9c59173e52d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhbG1vbmQlMjBtaWxrfGVufDB8fHx8MTc2MjE4NDAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "almond milk"
+    },
+    {
+      "id": "oat-milk",
+      "description": "A serving of oat milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1528750997573-59b89d56f4f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvYXQlMjBtaWxrfGVufDB8fHx8MTc2MjE4NDAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oat milk"
+    },
+    {
+      "id": "soy-milk",
+      "description": "A serving of soy milk.",
+      "imageUrl": "https://images.unsplash.com/photo-1592816870781-44cdd296a9fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzb3klMjBtaWxrfGVufDB8fHx8MTc2MjE4NDAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soy milk"
+    }
+  ]
 }
